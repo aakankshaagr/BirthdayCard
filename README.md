@@ -1,2 +1,5 @@
 # BirthdayCard
-A simple birthday card app. First project in google Android Jam Course
+## First project of Google Android Jam Course.
+A simple birthday card app. 
+Starting with Android Programming Project.
+
